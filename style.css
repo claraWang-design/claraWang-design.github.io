@@ -1,0 +1,11 @@
+.logo{
+    height: 40px;
+}
+@font-face {
+    font-family: "clarika";
+    src: url("fonts/clarika/light.otf");
+  }
+.bar{
+    font-family: clarika;
+}
+  
